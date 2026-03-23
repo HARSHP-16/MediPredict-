@@ -126,7 +126,7 @@ Power BI Dashboard (Visualization)
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Other Screenshots
 
 ### 🔹 1. Power BI Dashboard
 
