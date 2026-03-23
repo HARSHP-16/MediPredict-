@@ -1,6 +1,7 @@
 # 🩺 MediPredict – Healthcare Predictive Analytics System
 
 A full-stack machine learning application that predicts diabetes risk using patient health data and provides real-time analytics through an interactive dashboard.
+ ![Prediction UI](./screenshots/prediction_ui.png)
 
 ---
 
@@ -127,15 +128,11 @@ Power BI Dashboard (Visualization)
 
 ## 📸 Project Screenshots
 
-### 🔹 1. Prediction Web Interface
-
-![Prediction UI](./screenshots/prediction_ui.png)
-
-### 🔹 2. Power BI Dashboard
+### 🔹 1. Power BI Dashboard
 
 ![Dashboard](./screenshots/dashboard.png)
 
-### 🔹 3. Database Records (MySQL)
+### 🔹 2. Database Records (MySQL)
 
 ![Database](./screenshots/database.png)
 
